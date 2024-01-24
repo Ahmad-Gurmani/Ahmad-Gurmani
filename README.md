@@ -18,7 +18,7 @@
 **Talking about Personal Stuffs:**
 
 - 🏢 I'm currently studying at Virtual University;
-- 👨🏽‍💻 I’m currently working on React;
+- 👨🏽‍💻 I’m currently working on Frontend development;
 - 🌱 I’m currently learning new tools and technologies...
 - 💬 Ping me about **Web Development**, **Bootstrap**, **Javascript**, **Tailwind**, **React**, **Open Source**, **etc**...
 - 💬 Ask me about anything, I am happy to help;
